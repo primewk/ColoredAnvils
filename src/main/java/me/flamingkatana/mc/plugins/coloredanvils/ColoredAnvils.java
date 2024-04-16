@@ -8,8 +8,8 @@ import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.Map;
-import java.util.regex.Matcher; // These are never used
-import java.util.regex.Pattern; // Whyu 
+// import java.util.regex.Matcher;
+// import java.util.regex.Pattern;
 
 public final class ColoredAnvils extends JavaPlugin {
 
